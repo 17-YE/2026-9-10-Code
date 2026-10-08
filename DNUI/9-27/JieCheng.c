@@ -14,6 +14,6 @@ int main()
 	long long y = 0;
 	scanf("%d",&x);
 	y = jie(x);
-	printf("%dµÄ½×³ËÊÇ%lld",x,y);
+	printf("%lld",x,y);
 	return 0;
 }
